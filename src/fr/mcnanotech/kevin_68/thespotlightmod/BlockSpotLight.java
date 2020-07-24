@@ -22,7 +22,6 @@ public class BlockSpotLight extends BlockContainer
     public BlockSpotLight()
     {
         super(Material.IRON);
-        this.setLightLevel(1.0F);
         this.setSoundType(SoundType.METAL);
     }
 
